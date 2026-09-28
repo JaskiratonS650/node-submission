@@ -1,0 +1,7 @@
+{
+  "runtime": {
+    "language": "Node.js",
+    "version": "20"
+  },
+  "dependencies": {}
+}
