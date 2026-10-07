@@ -3,5 +3,7 @@
     "language": "Node.js",
     "version": "20"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "entrypoint": "index.js",
+  "executionMode": "test"
 }
